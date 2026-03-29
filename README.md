@@ -7,7 +7,7 @@ A real-time visual simulator that models how AI agent swarms cause
 test defenses before your system collapses.
 
 ## Live Demo
-[Click here to run SLCS in your browser](https://yourusername.github.io/slcs-simulator/slcs.html)
+[Click here to run SLCS in your browser](https://shrestha3511.github.io/Synthetic-Load-Collapse-Simulator/slcs.html)
 
 ## What it does
 In 2026, an AI agent can generate 10,000 hyper-personalized resumes
